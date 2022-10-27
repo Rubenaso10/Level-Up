@@ -1,0 +1,33 @@
+#etiq_cont{
+
+    display: block;
+    text-align: center;
+    font-size: 60px;
+}
+
+#botones{
+    text-align: center;
+    
+}
+ 
+#incrementar{
+    font-size: 40px;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+}
+#disminuir{
+    font-size: 40px;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+}
+#resetear{
+    font-size: 40px;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
